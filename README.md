@@ -67,7 +67,7 @@
 <!-- Tips -->
 <h2 align="center">✅ 𝕿𝖎𝖕𝖘 ✅</h2>
 
-<p align="center">Don't leave your cold storage plugged in(lol)</p>
+<p align="center">Don't leave your cold storage 'backups' plugged in(lol)</p>
 <br>
 <p align="center">No one, And I mean ABSOLUTELY NO ONE asked for your trash POC</p>
 <p align="center">Keep</p>
